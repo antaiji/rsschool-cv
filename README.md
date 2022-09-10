@@ -1,1 +1,1 @@
-https://antaiji.github.io/rsschool-cv/cv
+https://antaiji.github.io/rsschool-cv/
