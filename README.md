@@ -1,3 +1,1 @@
-# My CV
-
-Just my CV for RS School
+https://antaiji.github.io/rsschool-cv/
